@@ -31,10 +31,10 @@ My favorite Artists are
 I love to travel and explore the world  
 
 
-Favorite places I've been to 
-    - San Francisco
-    - Japan
-    - Agra 
+Favorite places I've been to  
+- San Francisco
+- Japan
+- Agra 
 
 ![Agra image](image/Agra.jpeg)
 

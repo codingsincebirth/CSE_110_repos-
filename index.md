@@ -6,7 +6,7 @@ Hey everyone. I'm Pramesh. I am a 4th year math-cs student and I'm really intere
 
 I also own a german shepard. Her name is Kai and I love her to death. Say hi to Kai   
 
-![Kai image](image/Kai.JPG)
+![Kai image](image/kai.JPG)
 ## A quote I live by
 > "Vincit qui se vincit"
 
